@@ -24,7 +24,7 @@ public class Exercises {
         System.out.println(combo2);
         System.out.println(somaMedias);
         System.out.println(mediaMedias);
-        return false;
+        return true;
     }
 //    Informar um saldo e imprimir o saldo com reajuste de 1%.
     public double reajusteSaldo(double saldo){
